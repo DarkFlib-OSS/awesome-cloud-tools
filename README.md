@@ -23,3 +23,11 @@ A moderately curated list of tools and projects relating to cloud, containers an
  * https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf
  * https://insights.sei.cmu.edu/sei_blog/2018/03/best-practices-for-cloud-security.html
  * 
+
+## Tools
+
+### JSON
+
+ * https://stedolan.github.io/jq/
+ * https://github.com/tomnomnom/gron
+ * https://github.com/micha/jsawk
