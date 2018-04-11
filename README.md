@@ -17,12 +17,19 @@ A moderately curated list of tools and projects relating to cloud, containers an
  * https://12factor.net/
  * https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-cassandra-on-amazon-ec2/
  
+### CI/CD Best Practice
+
+ * https://www.weave.works/blog/best-practices-continuous-delivery/
  
 ### Security
 
  * https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Checklist.pdf
  * https://insights.sei.cmu.edu/sei_blog/2018/03/best-practices-for-cloud-security.html
  * 
+
+## Case Studies
+
+## Tech Blogs
 
 ## Tools
 
